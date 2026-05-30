@@ -21,11 +21,11 @@
 <!-- ABOUT ME SECTION -->
 <h2><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=6C63FF&size=24&width=300&height=40&lines=🚀+About+Me" /></h2>
 <ul>
-  <li>🎓 <b>SMK Student</b> focusing on Software & Web Development</li>
-  <li>💻 Specialized in building web applications using <b>Laravel Framework</b></li>
-  <li>🎨 Passionate about <b>clean UI/UX</b> & structured backend systems</li>
-  <li>🌱 Currently learning <b>PHP, JavaScript, Tailwind CSS</b></li>
-  <li>🎯 Goal: Become a professional <b>Full-Stack / Backend Developer</b></li>
+  <li>🎓 <b>Siswa SMK</b> fokus pada Rekayasa Perangkat Lunak & Pengembangan Web</li>
+  <li>💻 Spesialisasi dalam membangun aplikasi web menggunakan <b>Laravel Framework</b></li>
+  <li>🎨 Tertarik dengan <b>clean UI/UX</b> & arsitektur database backend yang terstruktur</li>
+  <li>🌱 Saat ini aktif mendalami <b>PHP, JavaScript, dan Tailwind CSS</b></li>
+  <li>🎯 Target: Menjadi seorang <b>Full-Stack / Backend Developer</b> Profesional</li>
 </ul>
 
 <br>
@@ -38,34 +38,59 @@
 
 <br>
 
-<!-- FEATURED PROJECTS SHOWCASE -->
+<!-- FEATURED PROJECTS SHOWCASE (Mobile Responsive Format) -->
 <h2><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=6C63FF&size=24&width=350&height=40&lines=📂+Featured+Projects" /></h2>
-<table width="100%" cellpadding="10" cellspacing="6" style="border-collapse: separate;">
+
+<!-- Project 1 -->
+<table width="100%" cellpadding="10" cellspacing="0" style="margin-bottom: 10px;">
   <tr>
-    <!-- Project 1 -->
-    <td width="50%" valign="top" style="border: 1px solid #2d1b4e; border-radius: 8px; background: #12072B;">
+    <td style="border: 1px solid #2d1b4e; border-radius: 8px; background: #12072B;">
       <h4>⚽ Boa Futsal - Booking System</h4>
-      <p>A web application for court booking and schedules management with separate user and admin interfaces.</p>
-      <code>Laravel</code> <code>MySQL</code> <code>Tailwind CSS</code>
-    </td>
-    <!-- Project 2 -->
-    <td width="50%" valign="top" style="border: 1px solid #2d1b4e; border-radius: 8px; background: #12072B;">
-      <h4>🥞 UMKM Pancong - Ordering Platform</h4>
-      <p>A modern web-based local business ordering platform featuring structured data and smooth order management.</p>
+      <p>Aplikasi penyewaan lapangan futsal online lengkap dengan manajemen jadwal, serta sistem autentikasi terpisah untuk admin dan pengguna.</p>
       <code>Laravel</code> <code>MySQL</code> <code>Tailwind CSS</code>
     </td>
   </tr>
+</table>
+
+<!-- Project 2 -->
+<table width="100%" cellpadding="10" cellspacing="0" style="margin-bottom: 10px;">
   <tr>
-    <!-- Project 3 -->
-    <td width="50%" valign="top" style="border: 1px solid #2d1b4e; border-radius: 8px; background: #12072B;">
-      <h4>📰 Berita Web - News Portal</h4>
-      <p>A dynamic news aggregator system with functional content publishing, category systems, and modern UI.</p>
+    <td style="border: 1px solid #2d1b4e; border-radius: 8px; background: #12072B;">
+      <h4>🚗 Bengkel Service - Booking System</h4>
+      <p>Sistem booking antrean servis kendaraan secara berkala untuk mempermudah operasional bengkel dan manajemen data pelanggan.</p>
       <code>Laravel</code> <code>MySQL</code> <code>Tailwind CSS</code>
     </td>
-    <!-- Project 4 -->
-    <td width="50%" valign="top" style="border: 1px solid #2d1b4e; border-radius: 8px; background: #12072B;">
+  </tr>
+</table>
+
+<!-- Project 3 -->
+<table width="100%" cellpadding="10" cellspacing="0" style="margin-bottom: 10px;">
+  <tr>
+    <td style="border: 1px solid #2d1b4e; border-radius: 8px; background: #12072B;">
+      <h4>🥞 Website UMKM Pancong</h4>
+      <p>Platform pemesanan menu interaktif untuk bisnis lokal jajanan pancong dengan struktur database efisien dan UI modern.</p>
+      <code>Laravel</code> <code>MySQL</code> <code>Tailwind CSS</code>
+    </td>
+  </tr>
+</table>
+
+<!-- Project 4 -->
+<table width="100%" cellpadding="10" cellspacing="0" style="margin-bottom: 10px;">
+  <tr>
+    <td style="border: 1px solid #2d1b4e; border-radius: 8px; background: #12072B;">
+      <h4>📰 Berita Web - News Portal</h4>
+      <p>Portal berita dinamis dengan fitur manajemen konten (CMS), pembagian kategori berita berita, dan tampilan yang responsif.</p>
+      <code>Laravel</code> <code>MySQL</code> <code>Tailwind CSS</code>
+    </td>
+  </tr>
+</table>
+
+<!-- Project 5 -->
+<table width="100%" cellpadding="10" cellspacing="0" style="margin-bottom: 10px;">
+  <tr>
+    <td style="border: 1px solid #2d1b4e; border-radius: 8px; background: #12072B;">
       <h4>📋 Daily Task Manager - ToDo List API</h4>
-      <p>A robust task manager showcasing clean backend API development with integrated request testing.</p>
+      <p>Aplikasi manajemen tugas harian yang berfokus pada implementasi RESTful API backend yang bersih dan terstruktur.</p>
       <code>Laravel</code> <code>MySQL</code> <code>Tailwind CSS</code>
     </td>
   </tr>
@@ -76,7 +101,7 @@
 <!-- GITHUB STATS -->
 <h2><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=6C63FF&size=24&width=300&height=40&lines=📊+GitHub+Stats" /></h2>
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zshnrdtya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=12072B&title_color=00F7FF&text_color=A78BFA&icon_color=6C63FF" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zshnrdtya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=12072B&title_color=00F7FF&text_color=A78BFA&icon_color=6C63FF" /><br><br>
   <img height="160" src="https://streak-stats.demolab.com/?user=zshnrdtya&theme=tokyonight&hide_border=true&background=12072B&ring=00F7FF&fire=6C63FF&stroke=A78BFA" />
 </p>
 
