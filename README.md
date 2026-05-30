@@ -1,14 +1,16 @@
-<!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12072B,50:6C63FF,100:00F7FF&height=240&section=header&text=Zeeshan%20Raditya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55"/>
 
-<!-- TITLE & TYPING EFFECT -->
-<h1 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&color=00F7FF&center=true&vCenter=true&width=500&height=60&lines=Hi+👋,+I'm+Zeeshan" />
-</h1>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&color=A78BFA&size=16&center=true&vCenter=true&width=650&height=30&lines=🚀+Full-Stack+Web+Developer+|+SMK+Student" /><br>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&color=00F7FF&size=16&center=true&vCenter=true&width=650&height=30&lines=🎨+Crafting+modern+UI+&+building+powerful+backend+systems" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&color=A78BFA&size=16&center=true&vCenter=true&width=650&height=30&lines=🚀+Full-Stack+Web+Developer+|+SMK+Student" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&color=00F7FF&size=16&center=true&vCenter=true&width=650&height=30&lines=🎨+Crafting+modern+UI+&+building+powerful+backend+systems" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&color=6C63FF&size=16&center=true&vCenter=true&width=650&height=30&lines=🇮🇩+Indonesia" />
 </p>
 
@@ -18,8 +20,7 @@
 
 <hr style="border: 1px solid #1a0b36;" />
 
-<!-- ABOUT ME SECTION -->
-<h2><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=6C63FF&size=24&width=300&height=40&lines=🚀+About+Me" /></h2>
+<h2>🚀 About Me</h2>
 <ul>
   <li>🎓 <b>Siswa SMK</b> fokus pada Rekayasa Perangkat Lunak & Pengembangan Web</li>
   <li>💻 Spesialisasi dalam membangun aplikasi web menggunakan <b>Laravel Framework</b></li>
@@ -30,18 +31,15 @@
 
 <br>
 
-<!-- TECH STACK -->
-<h2><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=6C63FF&size=24&width=300&height=40&lines=🛠+Tech+Stack" /></h2>
+<h2>🛠 Tech Stack</h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,tailwind,figma,postman,git,vscode&perline=6" />
 </p>
 
 <br>
 
-<!-- FEATURED PROJECTS SHOWCASE (Mobile Responsive Format) -->
-<h2><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=6C63FF&size=24&width=350&height=40&lines=📂+Featured+Projects" /></h2>
+<h2>📂 Featured Projects</h2>
 
-<!-- Project 1 -->
 <table width="100%" cellpadding="10" cellspacing="0" style="margin-bottom: 10px;">
   <tr>
     <td style="border: 1px solid #2d1b4e; border-radius: 8px; background: #12072B;">
@@ -52,7 +50,6 @@
   </tr>
 </table>
 
-<!-- Project 2 -->
 <table width="100%" cellpadding="10" cellspacing="0" style="margin-bottom: 10px;">
   <tr>
     <td style="border: 1px solid #2d1b4e; border-radius: 8px; background: #12072B;">
@@ -63,7 +60,6 @@
   </tr>
 </table>
 
-<!-- Project 3 -->
 <table width="100%" cellpadding="10" cellspacing="0" style="margin-bottom: 10px;">
   <tr>
     <td style="border: 1px solid #2d1b4e; border-radius: 8px; background: #12072B;">
@@ -74,7 +70,6 @@
   </tr>
 </table>
 
-<!-- Project 4 -->
 <table width="100%" cellpadding="10" cellspacing="0" style="margin-bottom: 10px;">
   <tr>
     <td style="border: 1px solid #2d1b4e; border-radius: 8px; background: #12072B;">
@@ -85,7 +80,6 @@
   </tr>
 </table>
 
-<!-- Project 5 -->
 <table width="100%" cellpadding="10" cellspacing="0" style="margin-bottom: 10px;">
   <tr>
     <td style="border: 1px solid #2d1b4e; border-radius: 8px; background: #12072B;">
@@ -98,8 +92,7 @@
 
 <br>
 
-<!-- GITHUB STATS -->
-<h2><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=6C63FF&size=24&width=300&height=40&lines=📊+GitHub+Stats" /></h2>
+<h2>📊 GitHub Stats</h2>
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=zshnrdtya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=12072B&title_color=00F7FF&text_color=A78BFA&icon_color=6C63FF" /><br><br>
   <img height="160" src="https://streak-stats.demolab.com/?user=zshnrdtya&theme=tokyonight&hide_border=true&background=12072B&ring=00F7FF&fire=6C63FF&stroke=A78BFA" />
@@ -107,16 +100,14 @@
 
 <br>
 
-<!-- CONTRIBUTION GRAPH -->
-<h2><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=6C63FF&size=24&width=400&height=40&lines=📈+Contribution+Graph" /></h2>
+<h2>📈 Contribution Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zshnrdtya&theme=github-dark-neon&bg_color=12072B&hide_border=true&color=00F7FF" />
 </p>
 
 <br>
 
-<!-- CONNECT WITH ME -->
-<h2><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=6C63FF&size=24&width=300&height=40&lines=🌐+Connect+with+Me" /></h2>
+<h2>🌐 Connect with Me</h2>
 <p align="center">
   <a href="mailto:zeeshanraditya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-00F7FF?style=for-the-badge&logo=gmail&logoColor=12072B"/>
@@ -131,5 +122,4 @@
 
 <br>
 
-<!-- FOOTER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:6C63FF,100:12072B&height=140&section=footer"/>
