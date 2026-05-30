@@ -3,29 +3,29 @@
 <h1 align="center">Hi 👋, I'm Zeeshan</h1>
 
 <p align="center">
-  🚀 Front End Developer | SMK Student <br>
-  🎨 Crafting modern UI & smooth UX <br>
+  🚀 Full-Stack Web Developer | SMK Student <br>
+  🎨 Crafting modern UI & building powerful Backend systems <br>
   🇮🇩 Indonesia
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Front+End+Developer;UI/UX+Enthusiast;Clean+Code+%2B+Clean+Design;Always+Learning+New+Things🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Laravel+Developer;Front+End+Developer;UI/UX+Enthusiast;Clean+Code+%2B+Structured+Database🚀" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 SMK Student focusing on **Front End Development**
-- 🎨 Passionate about **UI/UX & Web Design**
-- 🌱 Currently learning **JavaScript & Tailwind CSS**
-- 🎯 Goal: Become a **Professional Front End Developer**
-- ⚡ Fun fact: I love making things look clean & smooth 😎
+- 🎓 SMK Student focusing on **Software & Web Development**
+- 💻 Specialized in building web applications using the **Laravel Framework**
+- 🎨 Passionate about bridging the gap between clean UI/UX and structured backend code
+- 🌱 Currently deep diving into **PHP, JavaScript, and Tailwind CSS**
+- 🎯 Goal: Become a professional **Full-Stack / Backend Developer**
 
 ---
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,tailwind,figma,git,vscode" />
 </p>
 
 ---
@@ -41,13 +41,6 @@
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zshnrdtya&theme=github-dark-neon&bg_color=0D1117&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zshnrdtya&theme=dark&no-frame=true&no-bg=true&row=1" />
 </p>
 
 ---
