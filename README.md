@@ -23,39 +23,25 @@
 
 ## 🛠 Tech Stack
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <h3>💻 Languages</h3>
-    </td>
-    <td align="center" width="33%">
-      <h3>🚀 Frameworks</h3>
-    </td>
-    <td align="center" width="34%">
-      <h3>🧰 DB & Tools</h3>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=html,css,js,php,java,kotlin&perline=3" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,bootstrap,tailwind&perline=3" />
-      <br><br>
-      <div align="center">
-        <img src="https://github.com/inertiajs.png" width="48" style="border-radius: 10px;" title="Inertia.js" alt="Inertia.js" />
-        <p style="font-size: 13px; margin-top: 8px;"><b>Laravel x React</b></p>
-      </div>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=mysql,git,postman,figma,vscode,androidstudio&perline=3" />
-      <br><br>
-      <div align="center">
-        <img src="https://www.kreaweb.be/laragon/" width="48" title="Laragon" alt="Laragon" />
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>💻 Languages</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,kotlin&perline=6" />
+  
+  <br><br>
+  
+  <h3>🚀 Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,bootstrap,tailwind&perline=5" />
+  <br><br>
+  <img src="https://github.com/inertiajs.png" width="40" style="border-radius: 8px;" title="Inertia.js" alt="Inertia.js" />
+  <p style="font-size: 13px; margin-top: 5px; margin-bottom: 0;"><b>Laravel x React</b></p>
+  
+  <br>
+  
+  <h3>🧰 DB & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,git,postman,figma,vscode,androidstudio&perline=6" />
+  <br><br>
+  <img src="https://www.kreaweb.be/laragon/" width="45" title="Laragon" alt="Laragon" />
+</div>
 
 <br>
 
@@ -63,38 +49,37 @@
 
 <table width="100%" cellpadding="15">
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid #2d1b4e; background: #12072B; border-radius: 8px;">
+    <td width="100%" valign="top" style="border: 1px solid #2d1b4e; background: #12072B; border-radius: 8px;">
       <h3>⚽ Boa Futsal</h3>
       <p>Aplikasi penyewaan lapangan futsal online lengkap dengan manajemen jadwal, serta sistem autentikasi terpisah untuk admin dan pengguna.</p>
-      <br>
       <img src="https://skillicons.dev/icons?i=laravel,mysql,tailwind" height="35" />
     </td>
-    <td width="50%" valign="top" style="border: 1px solid #2d1b4e; background: #12072B; border-radius: 8px;">
+  </tr>
+  <tr>
+    <td width="100%" valign="top" style="border: 1px solid #2d1b4e; background: #12072B; border-radius: 8px;">
       <h3>🚗 Bengkel Service</h3>
       <p>Sistem booking antrean servis kendaraan secara berkala untuk mempermudah operasional bengkel dan manajemen data pelanggan.</p>
-      <br>
       <img src="https://skillicons.dev/icons?i=laravel,mysql,tailwind" height="35" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid #2d1b4e; background: #12072B; border-radius: 8px;">
+    <td width="100%" valign="top" style="border: 1px solid #2d1b4e; background: #12072B; border-radius: 8px;">
       <h3>🥞 UMKM Pancong</h3>
       <p>Platform pemesanan menu interaktif untuk bisnis lokal jajanan pancong dengan struktur database efisien dan UI modern.</p>
-      <br>
-      <img src="https://skillicons.dev/icons?i=laravel,mysql,tailwind" height="35" />
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #2d1b4e; background: #12072B; border-radius: 8px;">
-      <h3>📰 Berita Web</h3>
-      <p>Portal berita dinamis dengan fitur manajemen konten (CMS), pembagian kategori berita, dan tampilan yang responsif.</p>
-      <br>
       <img src="https://skillicons.dev/icons?i=laravel,mysql,tailwind" height="35" />
     </td>
   </tr>
   <tr>
-    <td width="100%" colspan="2" valign="top" style="border: 1px solid #2d1b4e; background: #12072B; border-radius: 8px;">
+    <td width="100%" valign="top" style="border: 1px solid #2d1b4e; background: #12072B; border-radius: 8px;">
+      <h3>📰 Berita Web</h3>
+      <p>Portal berita dinamis dengan fitur manajemen konten (CMS), pembagian kategori berita, dan tampilan yang responsif.</p>
+      <img src="https://skillicons.dev/icons?i=laravel,mysql,tailwind" height="35" />
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" style="border: 1px solid #2d1b4e; background: #12072B; border-radius: 8px;">
       <h3>📋 Daily Task Manager (API)</h3>
       <p>Aplikasi manajemen tugas harian yang berfokus pada implementasi RESTful API backend yang bersih dan terstruktur.</p>
-      <br>
       <img src="https://skillicons.dev/icons?i=laravel,mysql,tailwind" height="35" />
     </td>
   </tr>
@@ -105,9 +90,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zshnrdtya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=12072B&title_color=00F7FF&text_color=A78BFA&icon_color=6C63FF" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://streak-stats.demolab.com/?user=zshnrdtya&theme=tokyonight&hide_border=true&background=12072B&ring=00F7FF&fire=6C63FF&stroke=A78BFA" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zshnrdtya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=12072B&title_color=00F7FF&text_color=A78BFA&icon_color=6C63FF" />
+  <br><br>
+  <img height="160" src="https://streak-stats.demolab.com/?user=zshnrdtya&theme=tokyonight&hide_border=true&background=12072B&ring=00F7FF&fire=6C63FF&stroke=A78BFA" />
 </div>
 
 <br>
