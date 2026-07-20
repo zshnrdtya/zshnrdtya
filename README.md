@@ -14,9 +14,9 @@
 
 ## 🚀 About Me
 - 🎓 **Siswa SMK** fokus pada Rekayasa Perangkat Lunak & Pengembangan Web
-- 💻 Spesialisasi dalam membangun aplikasi web menggunakan **Laravel Framework**
+- 💻 Spesialisasi dalam membangun aplikasi web & API menggunakan **Laravel Framework**
 - 🎨 Tertarik dengan **clean UI/UX** & arsitektur database backend yang terstruktur
-- 🌱 Saat ini aktif mendalami **PHP, JavaScript, dan Tailwind CSS**
+- 🌱 Saat ini aktif mendalami **Next.js, React, Inertia, dan Mobile Dev (Kotlin/Java)**
 - 🎯 Target: Menjadi seorang **Full-Stack / Backend Developer** Profesional
 
 <br>
@@ -36,14 +36,20 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,php&perline=4" />
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,java,kotlin&perline=3" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind&perline=3" />
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,bootstrap,tailwind&perline=3" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Laravel_x_React-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" style="margin-top: 5px;" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,git,postman,figma,vscode&perline=3" />
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=mysql,git,postman,figma,vscode,androidstudio&perline=3" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Laragon-08BCF4?style=flat-square&logo=server&logoColor=white" />
     </td>
   </tr>
 </table>
