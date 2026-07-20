@@ -51,7 +51,7 @@
       <img src="https://skillicons.dev/icons?i=mysql,git,postman,figma,vscode,androidstudio&perline=3" />
       <br><br>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/laragon.png" width="48" title="Laragon" alt="Laragon" />
+        <img src="https://www.kreaweb.be/laragon/" width="48" title="Laragon" alt="Laragon" />
       </div>
     </td>
   </tr>
