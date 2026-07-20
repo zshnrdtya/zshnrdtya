@@ -42,14 +42,17 @@
     <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,bootstrap,tailwind&perline=3" />
       <br><br>
-      <img src="https://img.shields.io/badge/Laravel_x_React-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" style="margin-top: 5px;" />
+      <div align="center">
+        <img src="https://github.com/inertiajs.png" width="48" style="border-radius: 10px;" title="Inertia.js" alt="Inertia.js" />
+        <p style="font-size: 13px; margin-top: 8px;"><b>Laravel x React</b></p>
+      </div>
     </td>
     <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=mysql,git,postman,figma,vscode,androidstudio&perline=3" />
       <br><br>
-      <img src="https://img.shields.io/badge/Laragon-08BCF4?style=flat-square&logo=server&logoColor=white" />
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/laragon.png" width="48" title="Laragon" alt="Laragon" />
+      </div>
     </td>
   </tr>
 </table>
