@@ -42,7 +42,7 @@
         <h3>🧰 DB & Tools</h3>
         <img src="https://skillicons.dev/icons?i=mysql,git,postman,figma,vscode,androidstudio&perline=3" />
         <br><br>
-        <img src="https://www.kreaweb.be/laragon/" width="50" title="Laragon" alt="Laragon" />
+        <img src="logo-laragon.jpg" width="50" title="Laragon" alt="Laragon" />
       </td>
     </tr>
   </table>
