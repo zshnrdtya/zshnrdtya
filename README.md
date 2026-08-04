@@ -23,28 +23,30 @@
 
 ## 🛠 Tech Stack
 
-<table width="100%" border="0" style="background: transparent;">
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <h3>💻 Languages</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js,php,java,kotlin&perline=3" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <h3>🚀 Frameworks</h3>
-      <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,bootstrap,tailwind&perline=3" />
-      <br><br>
-      <img src="https://github.com/inertiajs.png" width="35" style="border-radius: 8px;" title="Inertia.js" alt="Inertia.js" />
-      <br>
-      <span style="font-size: 13px; color: #A78BFA;"><b>Laravel x React</b></span>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <h3>🧰 DB & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=mysql,git,postman,figma,vscode,androidstudio&perline=3" />
-      <br><br>
-      <img src="https://www.kreaweb.be/laragon/" width="45" title="Laragon" alt="Laragon" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="1" cellpadding="15">
+    <tr>
+      <td align="center" valign="top">
+        <h3>💻 Languages</h3>
+        <img src="https://skillicons.dev/icons?i=html,css,js,php,java,kotlin&perline=3" />
+      </td>
+      <td align="center" valign="top">
+        <h3>🚀 Frameworks</h3>
+        <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,bootstrap,tailwind&perline=3" />
+        <br><br>
+        <img src="https://github.com/inertiajs.png" width="35" style="border-radius: 8px;" title="Inertia.js" alt="Inertia.js" />
+        <br>
+        <span style="font-size: 13px; color: #A78BFA;"><b>Laravel x React</b></span>
+      </td>
+      <td align="center" valign="top">
+        <h3>🧰 DB & Tools</h3>
+        <img src="https://skillicons.dev/icons?i=mysql,git,postman,figma,vscode,androidstudio&perline=3" />
+        <br><br>
+        <img src="https://www.kreaweb.be/laragon/" width="50" title="Laragon" alt="Laragon" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
@@ -123,4 +125,4 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:6C63FF,100:12072B&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:6C63FF,100:12072B&height=140&section=footer&text=Thank%20You%20!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
