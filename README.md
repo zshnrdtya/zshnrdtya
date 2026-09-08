@@ -6,17 +6,18 @@
 
 I'm a **Software Developer and Tech Enthusiast** from Indonesia, currently studying **Software and Game Development (PPLG)** at **SMKN 1 Depok**.
 
-I'm passionate about **Web Development, UI/UX Design, and modern technologies**. I enjoy building web applications that are not only functional, but also clean, responsive, and user-friendly.
+I'm passionate about **Web Development, UI/UX Design, AI Integration, and modern technologies**. I enjoy building web applications that are functional, responsive, and user-friendly.
 
-I have experience developing web applications using **Laravel, React, and Next.js**, with databases such as **MySQL**. I'm always exploring new technologies and improving my skills to become a better developer.
+I have experience developing web applications using **Laravel, React, Next.js, and Laravel Inertia**, along with working with databases such as **MySQL**. I'm always exploring new technologies and improving my skills to become a better developer.
 
 ⚙️ **Tech Stack I Work With:**
 
 * **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
-* **Backend:** PHP, Laravel
+* **Backend:** PHP, Laravel, Laravel Starter Kits, Laravel Inertia
 * **Database:** MySQL
+* **Programming Languages:** PHP, JavaScript, Python, Java, Kotlin
 * **Tools:** Git, GitHub, VS Code
-* **Others:** REST API, Laravel Sanctum
+* **Architecture & Technologies:** REST API, Laravel Sanctum, Inertia.js
 
 💡 I'm currently interested in **Fullstack Web Development, AI Integration, UI/UX, and modern web technologies**.
 
@@ -27,7 +28,7 @@ Besides coding, I also enjoy **visual arts, creative projects, and music**.
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,php,laravel,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,php,laravel,mysql,python,java,kotlin,git,github,vscode" />
 </p>
 
 ---
@@ -45,7 +46,7 @@ Besides coding, I also enjoy **visual arts, creative projects, and music**.
 
 I'm always open to learning, collaborating, and discussing interesting tech projects.
 
-✉️ **Email:** [[your-email@example.com](mailto:your-email@example.com)]
+✉️ **Email:** [radityaraizeeshan@gmail.com](mailto:radityaraizeeshan@gmail.com)
 
 🌐 **Portfolio:** https://radityarz.my.id
 
