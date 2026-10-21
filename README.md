@@ -25,7 +25,7 @@
 
 ### About Me
 
-I enjoy building web applications that are functional, responsive, and user-friendly - blending clean architecture with bold UI/UX aesthetics and interactive 3D web experiences.
+I enjoy building web applications that are functional, responsive, and user-friendly—blending clean architecture with bold UI/UX aesthetics and interactive 3D web experiences.
 
 - **Current Focus:** Fullstack Web Development, AI Integration, UI/UX, and modern web technologies.
 - **Exploration:** AI Virtual Assistants (Gemini API), Workflow Automation (n8n), and 3D Web (Three.js / Spline).
@@ -33,8 +33,8 @@ I enjoy building web applications that are functional, responsive, and user-frie
 
 **Tech Stack & Tools:**
 - **Languages:** PHP, TypeScript, JavaScript, Python, Java, Kotlin, HTML, CSS
-- **Frameworks & Styling:** Laravel, React, Next.js, Tailwind CSS, Three.js, Vite
-- **Libraries:** Inertia.js, Framer Motion, Laravel Starter Kits, Laravel Sanctum, Spline 3D
+- **Frameworks & Styling:** Laravel, React, Next.js, Vue.js, Tailwind CSS, Bootstrap, Three.js, Vite
+- **Libraries:** Inertia.js, Framer Motion, Laravel Breeze, Laravel Starter Kits, Laravel Sanctum, Spline 3D
 - **Database & ORM:** MySQL, Supabase, Prisma
 - **AI, Automation & Tools:** Google Gemini API, n8n, OpenCV, MediaPipe, Git, GitHub, VS Code, Laragon, Vercel, Netlify
 
