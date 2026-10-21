@@ -25,7 +25,7 @@
 
 ### About Me
 
-I enjoy building web applications that are functional, responsive, and user-friendly—blending clean architecture with bold UI/UX aesthetics and interactive 3D web experiences.
+I enjoy building web applications that are functional, responsive, and user-friendly - blending clean architecture with bold UI/UX aesthetics and interactive 3D web experiences.
 
 - **Current Focus:** Fullstack Web Development, AI Integration, UI/UX, and modern web technologies.
 - **Exploration:** AI Virtual Assistants (Gemini API), Workflow Automation (n8n), and 3D Web (Three.js / Spline).
