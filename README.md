@@ -68,17 +68,6 @@ I enjoy building web applications that are functional, responsive, and user-frie
 
 ---
 
-### Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[ZeeRa AI](https://zeeraai.radityarz.my.id)** | 3D Interactive AI Virtual Assistant with real-time voice synthesis and avatar animation. | `Next.js` `Three.js/Spline` `Gemini API` `Edge TTS` |
-| **[Personal Portfolio](https://radityarz.my.id)** | Interactive portfolio featuring a GitHub OAuth guestbook with likes and nested replies. | `Next.js` `TypeScript` `Prisma` `Supabase` |
-| **Boa Futsal (NendangTerus.id)** | Digital futsal court reservation and management platform. | `Laravel` `Tailwind CSS` `MySQL` |
-| **Class XII PPLG 1 Portal** | Class memory portal and interactive gallery for SMKN 1 Depok. | `Next.js` `Tailwind v4` `Framer Motion` |
-
----
-
 ### Total Contributions & Analytics
 
 <div align="center">
