@@ -36,7 +36,7 @@ I enjoy building web applications that are functional, responsive, and user-frie
 - **Frameworks & Styling:** Laravel, React, Next.js, Vue.js, Tailwind CSS, Bootstrap, Three.js, Vite
 - **Libraries:** Inertia.js, Framer Motion, Laravel Fillament, Laravel Breeze, Laravel Starter Kits, Laravel Sanctum, Spline 3D
 - **Database & ORM:** MySQL, Supabase, Prisma
-- **AI, Automation & Tools:** Google Gemini API, n8n, OpenCV, MediaPipe, Git, GitHub, VS Code, Laragon, Vercel, Netlify
+- **AI, Automation & Tools:** Google Gemini API, n8n, OpenCV, MediaPipe, Git, GitHub, VS Code, Laragon, Vercel, Netlify, Postman
 
 ---
 
